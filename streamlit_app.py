@@ -48,7 +48,7 @@ st.set_page_config(
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
 head_col1, head_col2, head_margin = st.columns((1, 1, 4))
-head_col1.image(r"https://github.com/mahendrasalunkhe/plant/blob/main/logo.jpg")
+head_col1.image("https://github.com/mahendrasalunkhe/plant/blob/main/logo.jpg")
 new_title = '<p style="font-family:sans-serif; color:darkgreen; font-size: 36px;"><b> Vertical Earth</b></p>'
 head_col2.markdown(new_title, unsafe_allow_html=True)
 
