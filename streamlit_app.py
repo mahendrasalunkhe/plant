@@ -8,5 +8,5 @@ df = pd.DataFrame(
    columns=['x','y','z'])
 ​
 c = alt.Chart(df).mark_circle().encode(
-   x='x' , 'y'=y , size='z', color='Green', tooltip=['x', 'y', 'z'])
+   x='x' , 'y'=y , size='z', color='z', tooltip=['x', 'y', 'z'])
 st.altair_chart(c, use_container_width=True)
