@@ -1,9 +1,5 @@
 import streamlit as st
-import numpy as np
 import pandas as pd
-import altair as alt
-​
-df = pd.DataFrame(np.random.randn(500, 3),columns=['x','y','z'])
-​
-c = alt.Chart(df).mark_circle().encode(x='x' , 'y'=y , size='z', color='Green', tooltip=['x', 'y', 'z'])
-st.altair_chart(c, use_container_width=True)
+import numpy as np
+df= pd.DataFrame(np.random.randn(10, 2),columns=['x', 'y'])
+st.area_chart(df)
