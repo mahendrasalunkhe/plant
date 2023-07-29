@@ -18,7 +18,7 @@ footer:after {
 }
 
 .stApp {
-    background-image: url("https://github.com/mahendrasalunkhe/plant/blob/main/pallet-green-grass.jpg");
+    background-image: url("https://github.com/mahendrasalunkhe/plant/blob/main/pallet-green-grass.jpg?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ");
     background-size: cover;
 }
 </style>
@@ -37,7 +37,7 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 
 head_col1, head_col2, head_margin = st.columns((1, 2, 3))
 
-head_col1.image("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/71020327.png?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ")
+head_col1.image("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/etha-earth-logo.png?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ")
 new_title = '<p style="font-family:sans-serif; color:darkgreen; font-size: 36px;"><b>Etha Earth</b></p>'
 head_col2.markdown(new_title, unsafe_allow_html=True)
 
