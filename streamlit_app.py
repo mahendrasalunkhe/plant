@@ -7,7 +7,7 @@ header {visibility: hidden;}
 footer {visibility: hidden;}
 
 footer:after {
-   content:'©Etha Earth'; 
+   content:'©Etha-Earth Pallet'; 
    visibility: visible;
    display: block;
    position: relative;
@@ -25,12 +25,12 @@ footer:after {
 """
 
 st.set_page_config(
-    page_title="Etha Earth",
+    page_title="Etha-Earth Pallet",
     page_icon="https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/etha-earth-logo.png?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ",
     layout="wide",
     initial_sidebar_state="collapsed",
     menu_items={
-        'About': "Pallet grass or gardan!"
+        'About': "Earth material Pallets, example grass, wooden, mud, gardan!"
     }
 )
 st.markdown(hide_st_style, unsafe_allow_html=True)
@@ -38,6 +38,6 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 head_col1, head_col2, head_margin = st.columns((0.3, 1.7, 4))
 
 head_col1.image("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/etha-earth-logo.png?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ")
-new_title = '<p style="font-family:sans-serif; color:Tomato; font-size: 36px;"><b>Etha Earth</b></p>'
+new_title = '<p style="font-family:sans-serif; color:Tomato; font-size: 36px;"><b>Etha-Earth Pallet</b></p>'
 head_col2.markdown(new_title, unsafe_allow_html=True)
 
