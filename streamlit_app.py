@@ -26,7 +26,7 @@ footer:after {
 
 st.set_page_config(
     page_title="Etha Earth",
-    page_icon="https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/71020327.png?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ",
+    page_icon="https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/etha-earth-logo.png?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ",
     layout="wide",
     initial_sidebar_state="collapsed",
     menu_items={
