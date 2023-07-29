@@ -38,6 +38,6 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 head_col1, head_col2, head_margin = st.columns((0.3, 1.7, 4))
 
 head_col1.image("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/etha-earth-logo.png?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ")
-new_title = '<p style="font-family:sans-serif; color:darkyellow; font-size: 36px;"><b>Etha Earth</b></p>'
+new_title = '<p style="font-family:sans-serif; color:Tomato; font-size: 36px;"><b>Etha Earth</b></p>'
 head_col2.markdown(new_title, unsafe_allow_html=True)
 
