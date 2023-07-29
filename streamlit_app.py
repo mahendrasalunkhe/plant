@@ -19,7 +19,7 @@ footer:after {
 
 
 .stApp {
-    background-image: url("https://img.wallpapersafari.com/desktop/1600/900/82/66/paOWM4.jpg");
+    background-image: url("https://img.freepik.com/premium-photo/green-grass-field_64749-2783.jpg?w=2000");
     background-size: cover;
 }
 </style>
