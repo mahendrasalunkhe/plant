@@ -27,7 +27,7 @@ footer:after {
    top: 2px;
    text-align: center;
 }
-#styles_terminalButton__JBj5T button{
+button.styles_terminalButton__JBj5T{
     visibility: collapse }
     
 .stApp {
