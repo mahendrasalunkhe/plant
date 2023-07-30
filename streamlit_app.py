@@ -27,7 +27,7 @@ footer:after {
    top: 2px;
    text-align: center;
 }
-.viewerBadge_link__qRIco {
+a.viewerBadge_container__r5tak styles_viewerBadge__CvC9N {
     visibility: collapse }
     
 .stApp {
