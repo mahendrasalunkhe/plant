@@ -6,4 +6,4 @@ textColor = "#DCDCDC"
 font = "sans-serif"
 
 [client]
-showErrorDetails = minimal
+showErrorDetails = "minimal"
