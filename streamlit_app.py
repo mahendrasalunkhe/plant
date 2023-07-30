@@ -17,7 +17,7 @@ footer:after {
    text-align: center;
 }
 .styles_terminalButton__JBj5T {
-    visibility: hidden; }
+    visibility: collapse }
     
 .stApp {
     background-image: url("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/pallet-green-grass.jpg?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ");
