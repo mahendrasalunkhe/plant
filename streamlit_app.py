@@ -17,7 +17,7 @@ header {visibility: hidden;}
 MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
 
-.viewerBadge_container__r5tak styles_viewerBadge__CvC9N {visibility: hidden !important;}
+.reportview-container .main footer {visibility: hidden;}
 
 footer:after {
    content:'©Etha-earthpallet'; 
