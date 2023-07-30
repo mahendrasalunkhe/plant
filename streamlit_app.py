@@ -43,9 +43,9 @@ head_col2.markdown(logo_name, unsafe_allow_html=True)
 
 st.caption(':tomato[Discover a Green Balcony Oasis! Let our premium grass solutions transform your balcony into a lush, low-maintenance space. Embrace nature and create a relaxing outdoor space to unwind.]') 
 
-st.caption(':darkgreen[Our dedicated team of experts is passionate about greening urban areas. With their guidance and installation services, turning your balcony into a green paradise is easy.]')
+st.caption(':green[Our dedicated team of experts is passionate about greening urban areas. With their guidance and installation services, turning your balcony into a green paradise is easy.]')
 
 st.caption(':orange[Experience the beauty of nature right at your doorstep today!]')
-st.caption(':yellow[Mobile: 7208005001]')
+st.caption(':Yellow[Mobile: 7208005001]')
 st.caption(':red[Email: mahendra.salunkhe@gmail.com]')
 
