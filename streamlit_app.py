@@ -36,7 +36,7 @@ footer:after {
 """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
-head_col1, head_col2, head_margin = st.columns((0.3, 2.7, 3))
+head_col1, head_col2, head_margin = st.columns([0.3, 2.7, 3])
 head_col1.image("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/etha-earth-logo.png?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ")
 logo_name = '<p style="font-family:sans-serif; color:Orange; font-size: 36px;"><b>Etha-earthpallet</b></p>'
 head_col2.markdown(logo_name, unsafe_allow_html=True)
