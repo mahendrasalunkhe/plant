@@ -17,9 +17,6 @@ header {visibility: hidden;}
 MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
 
-.reportview-container .main footer {visibility: hidden;}
-[data-testid="stToolbar"] {visibility: hidden !important;}
-
 footer:after {
    content:'©Etha-earthpallet'; 
    visibility: visible;
