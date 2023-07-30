@@ -41,11 +41,11 @@ head_col1.image("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/e
 logo_name = '<p style="font-family:sans-serif; color:Orange; font-size: 36px;"><b>Etha-earthpallet</b></p>'
 head_col2.markdown(logo_name, unsafe_allow_html=True)
 
-st.subheader('Discover a Green Balcony Oasis! Let our premium grass solutions transform your balcony into a lush, low-maintenance space. Embrace nature and create a relaxing outdoor space to unwind.') 
+st.subheader(:blue['Discover a Green Balcony Oasis! Let our premium grass solutions transform your balcony into a lush, low-maintenance space. Embrace nature and create a relaxing outdoor space to unwind.']) 
 
-st.subheader('Our dedicated team of experts is passionate about greening urban areas. With their guidance and installation services, turning your balcony into a green paradise is easy.'
+st.subheader(:green['Our dedicated team of experts is passionate about greening urban areas. With their guidance and installation services, turning your balcony into a green paradise is easy.'])
 
-st.subheader("""Experience the beauty of nature right at your doorstep today!
+st.subheader(:red["""Experience the beauty of nature right at your doorstep today!
 Mobile: 7208005001
-Email: mahendra.salunkhe@gmail.com""")
+Email: mahendra.salunkhe@gmail.com"""])
 
