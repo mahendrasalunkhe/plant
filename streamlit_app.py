@@ -27,7 +27,7 @@ footer:after {
    top: 2px;
    text-align: center;
 }
-.button.styles_terminalButton__JBj5T{
+.viewerBadge_link__qRIco {
     visibility: collapse }
     
 .stApp {
