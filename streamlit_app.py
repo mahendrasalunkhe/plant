@@ -41,8 +41,7 @@ head_col1.image("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/e
 logo_name = '<p style="font-family:sans-serif; color:Orange; font-size: 36px;"><b>Etha-earthpallet</b></p>'
 head_col2.markdown(logo_name, unsafe_allow_html=True, use_container_width=True)
 
-content = 
-"""
+content = """
 <p style="font-family:sans-serif; color:darkgreen; font-size: 12px;">Discover a Green Balcony Oasis! Let our premium grass solutions transform your balcony into a lush, low-maintenance space. Embrace nature and create a relaxing outdoor space to unwind.</p>
 <p style="font-family:sans-serif; color:tomato; font-size: 12px;">Our dedicated team of experts is passionate about greening urban areas. With their guidance and installation services, turning your balcony into a green paradise is easy.</p>
 
