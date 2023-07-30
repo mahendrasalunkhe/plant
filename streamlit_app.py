@@ -18,7 +18,7 @@ footer:after {
 }
 
 .stApp {
-    background-image: url("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/wooden-floor-green-grass.jpg?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ");
+    background-image: url("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/pallet-green-grass.jpg?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ");
     background-size: cover;
 }
 </style>
