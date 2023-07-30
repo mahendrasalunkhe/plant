@@ -41,3 +41,11 @@ head_col1.image("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/e
 logo_name = '<p style="font-family:sans-serif; color:Orange; font-size: 36px;"><b>Etha-earthpallet</b></p>'
 head_col2.markdown(logo_name, unsafe_allow_html=True)
 
+tab1, tab2 = st.tabs(["📈 about", "🗃 Contact"])
+data = np.random.randn(10, 1)
+
+tab1.subheader("A tab with a chart")
+tab1.line_chart(data)
+
+tab2.subheader("A tab with the data")
+tab2.write(data)
