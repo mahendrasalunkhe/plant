@@ -36,9 +36,9 @@ footer:after {
 """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
-head_col1, head_col2, head_margin = st.columns([0.1, 0.3, 0.4])
+head_col1, head_col2, head_col3 = st.columns([0.1, 0.3, 0.4])
 head_col1.image("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/etha-earth-logo.png?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ")
-logo_name = '<p style="font-family:sans-serif; color:Orange; font-size: 36px;"><b>Etha-earthpallet</b></p>'
+logo_name = '<p style="font-family:sans-serif; color:Orange; font-size: 32px;"><b>Etha-earthpallet</b></p>'
 head_col2.markdown(logo_name, unsafe_allow_html=True)
 
 content = """
@@ -48,7 +48,7 @@ content = """
 <p style="font-family:sans-serif; color:darkgreen; font-size: 14px;">Experience the beauty of nature right at your doorstep today!</p>
 <p style="font-family:sans-serif; color:darkgreen; font-size: 14px;">Mobile: 7208005001</p>
 <p style="font-family:sans-serif; color:darkgreen; font-size: 14px;">Email: mahendra.salunkhe@gmail.com</p> """
-st.markdown(content, unsafe_allow_html=True)
+head_col3.markdown(content, unsafe_allow_html=True)
 
 # st.caption(':tomato[Discover a Green Balcony Oasis! Let our premium grass solutions transform your balcony into a lush, low-maintenance space. Embrace nature and create a relaxing outdoor space to unwind.]') 
 
