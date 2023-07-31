@@ -42,8 +42,8 @@ logo_name = '<p style="font-family:sans-serif; color:Orange; font-size: 32px;"><
 head_col2.markdown(logo_name, unsafe_allow_html=True)
 
 content = """
-<p style="font-family:sans-serif; color:darkgreen; font-size: 14px;">Discover a Green Balcony Oasis! Let our premium grass solutions transform your balcony into a lush, low-maintenance space. Embrace nature and create a relaxing outdoor space to unwind.</p>
-<p style="font-family:sans-serif; color:darkgreen; font-size: 14px;">Our dedicated team of experts is passionate about greening urban areas. With their guidance and installation services, turning your balcony into a green paradise is easy.</p>
+<p style="font-family:sans-serif; color:darkgrey; font-size: 14px;">Discover a Green Balcony Oasis! Let our premium grass solutions transform your balcony into a lush, low-maintenance space. Embrace nature and create a relaxing outdoor space to unwind.</p>
+<p style="font-family:sans-serif; color:grey; font-size: 14px;">Our dedicated team of experts is passionate about greening urban areas. With their guidance and installation services, turning your balcony into a green paradise is easy.</p>
 
 <p style="font-family:sans-serif; color:darkgreen; font-size: 14px;">Experience the beauty of nature right at your doorstep today!</p>
 <p style="font-family:sans-serif; color:darkgreen; font-size: 14px;">Mobile: 7208005001</p>
