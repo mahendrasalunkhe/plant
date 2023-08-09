@@ -18,7 +18,7 @@ MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
 
 .css-z5fcl4 {
-    padding:2rem
+    padding:3rem
 }
 footer:after {
    content:'©Etha-earthpallet'; 
