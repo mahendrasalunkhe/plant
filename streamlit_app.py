@@ -17,13 +17,16 @@ header {visibility: hidden;}
 MainMenu {visibility: hidden;}
 footer {visibility: hidden;}
 
+.css-z5fcl4 {
+    padding:2rem
+}
 footer:after {
    content:'©Etha-earthpallet'; 
    visibility: visible;
    display: block;
    position: relative;
    #background-color: red;
-   padding: 2px;
+   padding: 5px;
    top: 2px;
    text-align: center;
 }
