@@ -23,7 +23,7 @@ footer:after {
    display: block;
    position: relative;
    #background-color: red;
-   padding: 5px;
+   padding: 2px;
    top: 2px;
    text-align: center;
 }
