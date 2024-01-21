@@ -45,6 +45,7 @@ logo_name = '<p style="font-family:sans-serif; color:Orange; font-size: 32px;"><
 head_col2.markdown(logo_name, unsafe_allow_html=True)
 
 head2_col1, head2_col2, head2_col3 = st.columns([3, 2, 1])
+
 content = """
 <p style="font-family:sans-serif; color:#101010; font-size: 16px;">Welcome to Etha Glass Window, your premier destination for glass sliding windows in Mumbai, India. We understand the importance of windows in transforming the look and feel of your home or office. Our team of experts is dedicated to providing high-quality windows that not only offer exceptional functionality but also serve as a stunning visual centrepiece.</p>
 <p style="font-family:sans-serif; color:#101010; font-size: 16px;">We believe that this approach allows for greater customization and adds a touch of elegance to any space. With our wide range of vibrant colours and carefully crafted patterns, you can create a truly unique and personalized environment.</p>
@@ -56,7 +57,7 @@ head2_col3.markdown(content, unsafe_allow_html=True)
 
 
 content_1 = """
-<p style="font-family:sans-serif; color:#101010; font-size: 15px;"> Explore our website to discover our extensive range of glass sliding windows. From residential to commercial applications, we offer a variety of sizes, shapes, and configurations to suit your specific requirements.</p>
+<p style="font-family:sans-serif; color:#101010; font-size: 15px;">Explore our website to discover our extensive range of glass sliding windows. From residential to commercial applications, we offer a variety of sizes, shapes, and configurations to suit your specific requirements.</p>
 """
 head2_col2.markdown(content_1, unsafe_allow_html=True)
 
