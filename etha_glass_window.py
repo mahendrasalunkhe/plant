@@ -40,11 +40,9 @@ footer:after {
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
 head_col1, head_col2, head_col3 = st.columns([0.04, 0.26, 0.7])
-head_col1.image("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/etha-earth-logo.png?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ")
+head_col1.image("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/SlidingWindow.png?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ")
 logo_name = '<p style="font-family:sans-serif; color:Orange; font-size: 32px;"><b>Etha Glass Window</b></p>'
 head_col2.markdown(logo_name, unsafe_allow_html=True)
-
-head_col3.image("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/wooden-floor-green-grass.jpg?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ")
 
 content = """
 <p style="font-family:sans-serif; color:#101010; font-size: 15px;">Welcome to Etha Glass Window, your premier destination for glass sliding windows in Mumbai, India. where each window showcases a single color and captivating pattern. At [Company Name], we understand the importance of windows in transforming the look and feel of your home or office. Our team of experts is dedicated to providing high-quality windows that not only offer exceptional functionality but also serve as a stunning visual centerpiece.</p>
