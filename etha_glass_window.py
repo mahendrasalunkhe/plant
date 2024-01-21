@@ -32,7 +32,7 @@ footer:after {
 }
     
 .stApp {
-    background-image: url("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/EthaColourGlassWindow.jpg?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ");
+    background-image: url("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/SlidingWindow.png?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ");
     background-size: cover;
 }
 </style>
@@ -40,7 +40,7 @@ footer:after {
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
 head_col1, head_col2, head_col3 = st.columns([0.04, 0.26, 0.7])
-head_col1.image("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/SlidingWindow.png?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ")
+head_col1.image("https://raw.githubusercontent.com/mahendrasalunkhe/plant/main/etha-earth-logo.png?token=GHSAT0AAAAAAB6A64EQU6FTCLAC4KQUJNPKY6VR5ZQ")
 logo_name = '<p style="font-family:sans-serif; color:Orange; font-size: 32px;"><b>Etha Glass Window</b></p>'
 head_col2.markdown(logo_name, unsafe_allow_html=True)
 
